@@ -1,6 +1,5 @@
 body{
 	font-family: 'Annie Use Your Telescope', cursive;
-	font-color:red;
 }
 
 h2{
@@ -35,19 +34,21 @@ img {
 }
 
 .icone {
-	width:200px;
+	width:100%;
 	margin:center;
 }
 
 .jock{
 	display:flex;
 	flex-direction:column;
-	justify-content:space-around;
+	justify-content:center;
 	background-image:url(Images/otarie.jpg);
 	height:100%;
 	background-size: 100%;
 	text-align:center;
 	font-weight: bold;
+	color:white;
+	font-size: 20px;
 }
 
 
